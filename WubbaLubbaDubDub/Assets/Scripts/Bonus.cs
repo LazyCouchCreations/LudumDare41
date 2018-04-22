@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class Bonus : MonoBehaviour {
@@ -19,6 +17,10 @@ public class Bonus : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         bonus = (int)((powerSliderImage.fillAmount * 100f) / 25);
+        if (bonus == sprites.Length)
+        {
+            bonus = sprites.Length - 1;
+        }
         myImage.sprite = sprites[bonus];
 	}
 }
