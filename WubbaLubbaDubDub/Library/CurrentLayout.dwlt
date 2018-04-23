@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 911, y: 371}
-  m_MaxSize: {x: 22006, y: 14021}
+  m_MinSize: {x: 915, y: 371}
+  m_MaxSize: {x: 22010, y: 14021}
   vertical: 0
-  controlID: 153
+  controlID: 93
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +130,10 @@ MonoBehaviour:
     y: 0
     width: 1554
     height: 947
-  m_MinSize: {x: 634, y: 371}
-  m_MaxSize: {x: 18004, y: 14021}
+  m_MinSize: {x: 638, y: 371}
+  m_MaxSize: {x: 18008, y: 14021}
   vertical: 1
-  controlID: 96
+  controlID: 94
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,10 +155,10 @@ MonoBehaviour:
     y: 0
     width: 1554
     height: 714
-  m_MinSize: {x: 634, y: 271}
-  m_MaxSize: {x: 18004, y: 10021}
+  m_MinSize: {x: 638, y: 271}
+  m_MaxSize: {x: 18008, y: 10021}
   vertical: 0
-  controlID: 97
+  controlID: 95
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,8 +229,8 @@ MonoBehaviour:
     y: 0
     width: 228
     height: 714
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -510,19 +510,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\georg\Desktop\Code-Repository\LazyCouchCreations\LudumDare41\WubbaLubbaDubDub
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 98270000
-    m_LastClickedID: 10136
-    m_ExpandedIDs: 00000000942700009c28000000ca9a3bffffff7f
+    m_SelectedIDs: 90270000
+    m_LastClickedID: 10128
+    m_ExpandedIDs: 00000000902700009e28000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -550,7 +550,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000942700009c280000
+    m_ExpandedIDs: 00000000902700009e280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -634,9 +634,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1a2a0000
-    m_LastClickedID: 10778
-    m_ExpandedIDs: 8cfbffff000000006229000088290000c2290000cc290000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: f226ffffbc27ffffcc28ffff9efbffff00000000c4290000d0290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
